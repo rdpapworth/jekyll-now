@@ -7,6 +7,3 @@ I've just read about Henry Ford in Bill Bryson's excellent 'One Summer: America,
 
 The problem is, without Google, I'd appear as big an idiot as Ford. I'm not sure I could answer any of the questions that Bryon uses to illustrate Ford's idiocy. So, to address this situation, I'm going to set myself a trivia question every day in an effort to fill in some gaps. For convenience, since I happen to be using it at the moment, I'll set up the questions as a swirl course. Hopefully, at the end of a year, I'll be able to enter a pub quiz without embarrassing myself.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-
