@@ -1,5 +1,4 @@
 ---
-layout: post
 title: COVID-19: Science the S**t Out of This
 ---
 
